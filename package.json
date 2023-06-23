@@ -9,7 +9,6 @@
     "url": "http://github.com/kriszyp/msgpackr-extract"
   },
   "scripts": {
-    "install": "node-gyp rebuild",
     "recompile": "node-gyp rebuild",
     "test": "node ./index.js"
   },
