@@ -1,1 +1,1 @@
-module.exports = require('./build/Release/extract.node')(__dirname);
+module.exports = require('./build/Release/msgpackr-extract.node')(__dirname);
