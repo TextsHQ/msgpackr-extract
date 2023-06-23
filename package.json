@@ -21,9 +21,6 @@
   },
   "main": "./index.js",
   "gypfile": true,
-  "dependencies": {
-    "node-gyp-build-optional-packages": "5.0.7"
-  },
   "files": [
     "index.js",
     "/src",

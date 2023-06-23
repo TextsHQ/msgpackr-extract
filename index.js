@@ -1,1 +1,1 @@
-module.exports = require('node-gyp-build-optional-packages')(__dirname);
+module.exports = require('./build/Release/extract.node')(__dirname);
